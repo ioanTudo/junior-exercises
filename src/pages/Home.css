@@ -1,0 +1,5 @@
+.exercices_contaiener {
+  display: grid;
+
+  grid-template-columns: 1fr;
+}
